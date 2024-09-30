@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(42, 4, 95);
+    max-width: 1200px;
+    margin: auto;
+}
+.box{
+    color: azure;
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+    margin-top: 50px;
+}
+.item{
+    justify-content: center;
+    width: 150px;
+    padding: 15px;
+    background-color: red;
+    border-radius: 30px;
+}
+img{
+    margin-left: 40px;
+}
+iframe{
+    margin-left: 350px;
+    margin-top: 70px;
+}
+.box1{
+    background-color: black;
+    width: 150px;
+    padding: 40px;
+    border-radius: 30px;
+    color: azure;
+    font-size: 30px;
+    margin-left: 500px;
+
+}
+
+.box2{
+    margin-top: 50px;
+    margin-left: 40px;
+    font-size: 15px;
+    display: flex;
+    gap: 390px;
+}
+.parent{
+    background-color: red;
+    border-radius: 30px;
+    padding: 35px;
+   
+}
+.parent1{
+    background-color: red;
+    border-radius: 30px;
+    padding: 40px;
+   
+}
+
+.item2{
+    width: 250px;
+    padding: 30px;
+    height: 100px;
+    background-color: yellowgreen;
+}
+.item3{
+    width: 250px;
+    padding: 30px;
+    background-color: yellowgreen;
+}
